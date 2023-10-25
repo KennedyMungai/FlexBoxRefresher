@@ -11,7 +11,7 @@ body {
 .flex-container {
     height: 100vh;
     display: flex;
-    flex-direction: column;
+    /* flex-direction: column; */
     background-color: #f4f4f4;
     justify-content: space-around;
     align-items: center;
