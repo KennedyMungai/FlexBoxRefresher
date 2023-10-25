@@ -13,8 +13,9 @@ body {
     display: flex;
     /* flex-direction: column; */
     background-color: #f4f4f4;
-    justify-content: space-around;
-    align-items: center;
+    /* justify-content: space-around; */
+    /* align-items: center; */
+    flex-wrap: wrap;
 }
 
 .item {
