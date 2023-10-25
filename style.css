@@ -11,13 +11,14 @@ body {
 .flex-container {
     display: flex;
     background-color: #f4f4f4;
+    justify-content: center;
 }
 
 .item {
     width: 100px;
     height: 100px;
     background-color: #58f;
-    color: #f85;
+    color: #fff;
     margin: 10px;
     padding: 10px;
 }
